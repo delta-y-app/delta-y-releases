@@ -1,4 +1,9 @@
-# README
+# Delta-y Releases
+
+![delta-y-logo-real](https://user-images.githubusercontent.com/43355097/145533690-cb4fad8d-caa9-4950-a2d9-4fff99b6f5a4.png)
+
+[delta-y-flyer.pdf](https://github.com/delta-y-app/delta-y-releases/files/7690804/delta-y-flyer.pdf)
+
 
 This repository contains the public releases for the Delta-y app, which is currently closed source.
 
