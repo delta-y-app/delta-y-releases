@@ -17,3 +17,4 @@ This repository contains the public releases for the Delta-y app, which is curre
 - Erdi Fan -- https://github.com/fed9115
 - Garrett Moseke -- https://github.com/GNMoseke
 - Kyle Perry -- https://github.com/kylePerryUT
+ 
