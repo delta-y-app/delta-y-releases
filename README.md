@@ -1,6 +1,6 @@
 # Delta-y Releases
 
-This repository contains the public releases for the Delta-y app, which is currently closed source.
+This repository contains the public releases for the Delta-y app. Look at the source code [here](https://github.com/delta-y-app/delta-y).
 
 ![delta-y-logo-real](https://user-images.githubusercontent.com/43355097/145533690-cb4fad8d-caa9-4950-a2d9-4fff99b6f5a4.png)
 
